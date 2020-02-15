@@ -1,5 +1,5 @@
 # Horiseon Web Services
-This is a fictional web services provider. The goal with this project is to learn how to write CSS with a focus on maximum user accessibility.
+This is a fictional web services provider. The goal of this project was to learn how to write CSS with a focus on maximum user accessibility.
 
 ## Authors
 - Carleton University Bootcamp Instructor (R.M.)
